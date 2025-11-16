@@ -164,12 +164,6 @@ footer {
   padding-left: 0;
 }
 
-.participants-list.no-bullets {
-  list-style-type: none;
-  margin-left: 0;
-  padding-left: 0;
-}
-
 .participant-name {
   margin-right: 8px;
 }
